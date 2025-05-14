@@ -18,8 +18,7 @@ Uygulama sayesinde kullanıcılar ister bir **URL** girerek, ister **HTML dosyas
 
 ## 📸 Uygulama Arayüzü
 
-![Arayüz Ekranı](https://github.com/Erayy394/SEOAnalizAraci/assets/example-image.png)  
-*(Görseli GitHub’a yükledikten sonra bu bağlantıyı güncelleyebilirsin)*
+![Arayüz Ekranı](arayuz.png)  
 
 ---
 
